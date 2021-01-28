@@ -2,6 +2,6 @@ package com.company;
 
 public class SUN {
     String  SIZE;
-    int temp;
+    String temp;
         String  COLOR;
 }
